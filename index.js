@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jogando Higienópolis Roleplay","Higienópolis Network"];
+const statusMessages = ["Setor P3 - Estatísticas","Companhia de Ações Especiais de Polícia"];
 
 
 let currentIndex = 0;
